@@ -1,3 +1,4 @@
+# This code is NOT mine. I only modified it in order to integrate it into the team's software package
 import webcolors
 
 #3 random RGB values from 0-255
